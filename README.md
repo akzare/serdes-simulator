@@ -48,3 +48,5 @@ https://github.com/richard259/serdespy
 Contributions are welcome.
 Feel free to open issues, submit pull requests, or propose new features.
 
+YouTube: https://youtu.be/1cnc2NmMRk0?si=wmhQZmho5rk5roHt
+
